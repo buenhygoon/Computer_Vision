@@ -4,4 +4,7 @@
 ## Contents
 * Image Processing
 * Filter
-* Com
+* Image Characteristic
+* Computer vision & Machine Learning
+* Image Classification : Neural Network
+* OpenCV
